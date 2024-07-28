@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const uri = "mongodb+srv://tsmnct13:tskasha10@cluster0.vu2yxcj.mongodb.net/kasha?retryWrites=true"
+const uri = "mongodb+srv://tsmnct13:<password>@cluster0.vu2yxcj.mongodb.net/kasha?retryWrites=true"
 
 module.exports.connect = () => {
     mongoose
