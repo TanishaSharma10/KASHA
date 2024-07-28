@@ -9,12 +9,12 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "",
-  authDomain: "kasha-7a400.firebaseapp.com",
-  projectId: "kasha-7a400",
-  storageBucket: "kasha-7a400.appspot.com",
-  messagingSenderId: "801088718186",
-  appId: "1:801088718186:web:691db963849b3c54715113",
-  measurementId: "G-6TH49RZ5X3"
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
