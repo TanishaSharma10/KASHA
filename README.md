@@ -11,7 +11,7 @@ The following snapshots showcase the frontend of the Kasha Project, highlighting
 - The next snapshots features the Home Page, where women can post content, express their thoughts, and respond to others.
 
 
-![WhatsApp Image 2025-01-24 at 15 11 06](https://github.com/user-attachments/assets/da8aee4e-10f5-4b9f-9e01-fd0ed7669d21)
+![WhatsApp Image 2025-01-28 at 16 14 50](https://github.com/user-attachments/assets/cfeb50dc-a776-4fd5-9b1d-ff471f0796dc)
 
 ![WhatsApp Image 2025-01-24 at 15 13 31](https://github.com/user-attachments/assets/f6f3b8fb-78e7-4005-8521-f784f6f3aea0)
 
